@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="21" viewBox="0 0 59 21">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="59" height="21" fill="#F9D44F"/>
+    <text fill="#000" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" letter-spacing=".212">
+      <tspan x="5.198" y="15">STEP</tspan>
+    </text>
+    <circle cx="48.5" cy="10.5" r="7.5" fill="#000"/>
+    <text fill="#FFF" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" letter-spacing=".212">
+      <tspan x="45.294" y="15">2</tspan>
+    </text>
+  </g>
+</svg>

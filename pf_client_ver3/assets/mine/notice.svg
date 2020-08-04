@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>公告消息</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.我的-普通用户备份" transform="translate(-13.000000, -468.000000)">
+            <g id="公告消息" transform="translate(13.000000, 468.000000)">
+                <rect id="矩形复制-20" fill="#FFFFFF" opacity="0.00999999978" x="0" y="0" width="36" height="36"></rect>
+                <g id="编组-10" transform="translate(9.400000, 9.800000)">
+                    <path d="M3.09073608,1.68677366 C3.00459546,1.74853481 2.91988048,1.81174112 2.8366404,1.87634983 M1.01995374,3.87124518 C0.369385801,4.91454616 0,6.10931443 0,7.37897906 C0,9.77515295 1.3156453,11.9045677 3.35404531,13.252526 C3.58445011,13.4048886 3.4761308,16.8818508 3.69934015,16.9704959 C4.57172379,17.3169536 6.16770201,14.4956731 6.75098326,14.6015829 C7.31544152,14.704075 7.90047225,14.7579581 8.5,14.7579581 C13.1944204,14.7579581 17,11.4542767 17,7.37897906 C17,3.30368146 13.1944204,0 8.5,0 C7.78805136,0 7.09654632,0.075985643 6.43565901,0.219124605" id="形状" stroke="#454545" stroke-width="1.512" stroke-linecap="round"></path>
+                    <rect id="矩形" fill="#454545" x="4.5" y="5" width="8" height="2" rx="1"></rect>
+                    <rect id="矩形复制-13" fill="#FFE150" x="4.5" y="8" width="6" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

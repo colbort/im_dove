@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="329px" height="60px" viewBox="0 0 329 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>我的/6@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.1195742,0.628078654 L318.439574,0.628078654 C323.962422,0.628078654 328.439574,5.10523116 328.439574,10.6280787 L328.439574,60 L0.119574238,60 L0.119574238,10.6280787 C0.119574238,5.10523116 4.59672674,0.628078654 10.1195742,0.628078654 Z" id="path-1"></path>
+        <polygon id="path-3" points="119.806167 -5 77.1516428 60 -11 60 -11 -5"></polygon>
+        <filter x="-5.4%" y="-7.7%" width="110.7%" height="121.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.547299592   0 0 0 0 0.381949573   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="正传（界面）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.我的-登陆后复制" transform="translate(-16.000000, -290.000000)">
+            <g id="我的/6" transform="translate(16.200426, 290.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#FED321" xlink:href="#path-1"></use>
+                <g id="路径-15" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FF5B6F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

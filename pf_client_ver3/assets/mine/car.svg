@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="37px" viewBox="0 0 36 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>开车群</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.我的-普通用户备份" transform="translate(-13.000000, -608.000000)">
+            <g id="开车群" transform="translate(13.000000, 608.500000)">
+                <rect id="矩形复制-20" fill="#FFFFFF" opacity="0.00999999978" x="0" y="0" width="36" height="36"></rect>
+                <g id="编组-3" transform="translate(7.000000, 10.100000)" stroke-width="1.5">
+                    <path d="M0.75,12.25 L21.25,12.25 L21.25,8.5792 C21.25,6.46439124 19.5356088,4.75 17.4208,4.75 L4.5792,4.75 C2.46439124,4.75 0.75,6.46439124 0.75,8.5792 L0.75,12.25 Z" id="矩形复制" stroke="#454545"></path>
+                    <circle id="椭圆形" stroke="#454545" fill="#FFFFFF" cx="6.5" cy="13" r="3"></circle>
+                    <circle id="椭圆形复制-2" stroke="#FFE150" fill="#FFFFFF" cx="15.5" cy="13" r="3"></circle>
+                    <path d="M18,3 C17.8991874,2.5633781 17.563017,1.90951335 16.9960828,1.54019546 M15.4403791,0.613892184 C15.3836242,0.593896793 15.3261348,0.574322942 15.2679327,0.555180755 M13.1779711,0.100916389 C12.642682,0.0350876529 12.0802191,0 11.5,0 C7.91014913,0 5,1.34314575 5,3" id="形状" stroke="#454545" stroke-linecap="round"></path>
+                    <path d="M11.5,0 L11.5,3" id="路径-5" stroke="#454545"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

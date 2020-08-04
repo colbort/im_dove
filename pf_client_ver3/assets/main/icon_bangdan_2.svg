@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>榜单第二名</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.569886123 0 0.569886123 13.1618257 6.4260062 9.79631181 11.9149362 13.1618257 11.9149362 0"></polygon>
+        <linearGradient x1="82.903902%" y1="16.9327815%" x2="15.2762084%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E8E8E8" offset="0%"></stop>
+            <stop stop-color="#C5C5C5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="榜单第二名" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="榜单第一名">
+            <rect id="矩形" x="0" y="0" width="40" height="40"></rect>
+            <g id="编组-11" transform="translate(5.000000, 0.000000)">
+                <g id="路径-4" transform="translate(8.573994, 25.214804)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#FF4428" xlink:href="#path-1"></use>
+                    <polygon fill="#DE2307" mask="url(#mask-2)" points="-2.37105884 2.88714585 12.5 14.7491982 11.9149362 3.56076829"></polygon>
+                </g>
+                <circle id="椭圆形" fill="url(#linearGradient-3)" cx="15" cy="15" r="15"></circle>
+                <circle id="椭圆形" fill="#F1F1F1" cx="15" cy="15" r="11.25"></circle>
+                <text id="2" font-family="Helvetica-Bold, Helvetica" font-size="15" font-weight="bold" fill="#C1C1C1">
+                    <tspan x="11" y="20">2</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

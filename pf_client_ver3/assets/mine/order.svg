@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>观影记录</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.我的-普通用户备份" transform="translate(-13.000000, -516.000000)">
+            <g id="观影记录" transform="translate(13.000000, 516.000000)">
+                <rect id="矩形复制-20" fill="#FFFFFF" opacity="0.00999999978" x="0" y="0" width="36" height="36"></rect>
+                <g id="编组-19" transform="translate(8.900000, 9.200000)">
+                    <path d="M3.29244892,1.78150407 C3.11221937,1.92140392 2.9377698,2.06839586 2.76951899,2.22206111 M0.765578124,4.96957231 C0.273973211,6.04483066 0,7.24042039 0,8.5 C0,13.1944204 3.80557963,17 8.5,17 L8.5,17 C13.1944204,17 17,13.1944204 17,8.5 C17,3.80557963 13.1944204,0 8.5,0 C7.62441672,0 6.77975455,0.132388962 5.98493882,0.378241532" id="形状" stroke="#454545" stroke-width="1.512" stroke-linecap="round"></path>
+                    <path d="M7.73715114,9.24456379 L12.5130545,9.24456379 C12.9311001,9.24456379 13.269993,9.58345671 13.269993,10.0015023 C13.269993,10.4195479 12.9311001,10.7584408 12.5130545,10.7584408 L7.73715114,10.7584408 L7.73715114,10.7584408 L7.73715114,9.24456379 Z" id="矩形" fill="#FFE150"></path>
+                    <path d="M8.5,4 L8.5,10" id="路径-11" stroke="#454545" stroke-width="1.512" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>公告消息 </title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.我的" transform="translate(-16.000000, -453.000000)">
+            <g id="公告消息" transform="translate(16.000000, 453.000000)">
+                <rect id="矩形复制-20" fill="#FFFFFF" opacity="0.00999999978" x="0" y="0" width="30" height="30"></rect>
+                <g id="编组-10" transform="translate(7.000000, 6.500000)">
+                    <path d="M8,13.8666667 C12.418278,13.8666667 16,10.7625076 16,6.93333333 C16,3.10415907 12.418278,9.68114477e-14 8,9.68114477e-14 C3.581722,9.68114477e-14 0,3.10415907 0,6.93333333 C0,9.18479281 1.2382544,11.1856038 3.15674853,12.4521535 C3.3736001,12.5953144 3.27165252,15.862289 3.4817319,15.9455806 C4.30279886,16.2711143 5.80489601,13.6202221 6.3538666,13.7197356 C6.88512143,13.8160378 7.43573859,13.8666667 8,13.8666667 Z" id="椭圆形" stroke="#F9C11B" stroke-width="1.4"></path>
+                    <rect id="矩形" fill="#F9C11B" x="4.26666667" y="4.8" width="7.46666667" height="1.4" rx="0.7"></rect>
+                    <rect id="矩形复制-13" fill="#F9C11B" x="4.26666667" y="8" width="5.33333333" height="1.4" rx="0.7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>编组 11</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-16.000000, -451.000000)">
+            <g id="编组-19" transform="translate(17.000000, 452.000000)">
+                <g id="编组-11">
+                    <rect id="矩形" fill="#FFE300" x="3.34074074" y="3.18505291" width="18.3333333" height="18.3333333" rx="4.56296296"></rect>
+                    <circle id="椭圆形" stroke="#333333" stroke-width="1.83333333" fill="#FFFFFF" cx="11.4074074" cy="10.7555556" r="6.51851852"></circle>
+                    <text id="代" stroke="#333333" stroke-width="1.83333333" font-family="PingFangSC-Semibold, PingFang SC" font-size="6.51851852" font-weight="500" letter-spacing="-0.0407407417" fill="#333333">
+                        <tspan x="8.14814815" y="12.5">代</tspan>
+                    </text>
+                    <path d="M0.814814815,5.68456927 L0.814814815,4.56296296 C0.814814815,2.0429081 2.85772292,0 5.37777778,0 L17.437037,0 C19.9570919,0 22,2.0429081 22,4.56296296 L22,16.9481481 C22,19.468203 19.9570919,21.5111111 17.437037,21.5111111 L5.37777778,21.5111111 C2.85772292,21.5111111 0.814814815,19.468203 0.814814815,16.9481481 L0.814814815,12.5263912 L0.814814815,12.5263912 M0.814814815,10.182345 L0.814814815,8.48944243" id="形状" stroke="#333333" stroke-width="1.83333333" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

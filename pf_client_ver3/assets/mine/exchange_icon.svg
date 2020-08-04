@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>作品集备份</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.我的-普通用户备份-2" transform="translate(-16.000000, -404.000000)">
+            <g id="作品集备份" transform="translate(16.000000, 404.000000)">
+                <rect id="矩形复制-20" fill="#FFFFFF" opacity="0.00999999978" x="0" y="0" width="36" height="36"></rect>
+                <g id="编组" transform="translate(9.000000, 9.000000)">
+                    <path d="M2.29145652,1 L2,1 C0.8954305,1 0,1.8954305 0,3 L0,14.5 C0,15.6045695 0.8954305,16.5 2,16.5 L15,16.5 C16.1045695,16.5 17,15.6045695 17,14.5 L17,12.5806671 C15.3432514,11.7342627 14.424628,10.0778084 14.424628,8.50180762 C14.424628,6.92580683 15.3432514,5.60027566 17,4.42294809 L17,3 C17,1.8954305 16.1045695,1 15,1 L6.74739965,1 M4.09095947,1 L4.09095947,1" id="形状" stroke="#454545" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="矩形" fill="#FFE150" x="4" y="6" width="1.5" height="8" rx="0.75"></rect>
+                    <rect id="矩形备份" fill="#454545" x="4" y="4" width="1.5" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

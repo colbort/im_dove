@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="340" height="190" viewBox="0 0 340 190">
+  <defs>
+    <filter id="bg_1-a" width="107.3%" height="113.3%" x="-3.6%" y="-6.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="bg_1-c" x1="0%" x2="97.44%" y1="46.328%" y2="46.328%">
+      <stop offset="0%" stop-color="#B57355"/>
+      <stop offset="5.722%" stop-color="#B9795B"/>
+      <stop offset="12.099%" stop-color="#BE8062"/>
+      <stop offset="19.023%" stop-color="#C38769"/>
+      <stop offset="26.385%" stop-color="#C88D70"/>
+      <stop offset="34.074%" stop-color="#CD9476"/>
+      <stop offset="41.983%" stop-color="#D39B7D"/>
+      <stop offset="50%" stop-color="#D8A183"/>
+      <stop offset="58.017%" stop-color="#DDA889"/>
+      <stop offset="65.926%" stop-color="#E2AD8F"/>
+      <stop offset="73.615%" stop-color="#E7B394"/>
+      <stop offset="80.977%" stop-color="#EBB899"/>
+      <stop offset="87.901%" stop-color="#EFBD9D"/>
+      <stop offset="94.278%" stop-color="#F3C1A1"/>
+      <stop offset="100%" stop-color="#F6C5A5"/>
+    </linearGradient>
+    <rect id="bg_1-b" width="330" height="180" x="0" y="0" rx="18"/>
+    <linearGradient id="bg_1-d" x1="5.72%" x2="80.414%" y1="50.002%" y2="49.998%">
+      <stop offset="0%" stop-color="#EFCCBC"/>
+      <stop offset="48.063%" stop-color="#D4A68D"/>
+      <stop offset="100%" stop-color="#B67C5B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#bg_1-a)" transform="translate(4 4)">
+    <mask id="bg_1-e" fill="#fff">
+      <use xlink:href="#bg_1-b"/>
+    </mask>
+    <use fill="url(#bg_1-c)" xlink:href="#bg_1-b"/>
+    <rect width="330" height="2" y="134" fill="url(#bg_1-d)" mask="url(#bg_1-e)"/>
+  </g>
+</svg>

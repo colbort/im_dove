@@ -1,0 +1,91 @@
+name: app
+description: paofu client
+
+version: 2.4.3+30
+
+environment:
+    sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+    flutter:
+        sdk: flutter
+    fish_redux: "0.3.1" # Fish Redux+
+    flutter_cache_manager: "1.1.3" # 数据缓存
+    cached_network_image: "2.0.0" # 图片缓存
+    md5_plugin: "1.0.2" #文件md5
+    dio: "3.0.7" # Http client
+    dio_http_cache: "0.2.5" # http cache lib
+    connectivity: "0.4.6" # network state (WiFi & mobile/cellular)
+    event_bus: "1.1.0" # A simple Event Bus
+    path_provider: "1.5.1" # get locations on the Android & iOS file systems.
+    uuid: "2.0.4" # UUID Generator and Parser //flutter cache用的，到时候再去
+    # http: "0.12.0+2" # making HTTP requests.
+    sqflite: "1.2.0" # SQL database engine.
+    # json_serializable: "3.2.3" # json序列化
+    pull_to_refresh: "1.5.8" # 下拉刷新，上拉加载
+    flutter_svg: "0.17.1" # SVG rendering
+    video_player: "0.10.8+1" #官方播放器
+    wakelock: "0.1.3" # 屏幕常亮
+    date_format: "1.0.8" # 日期格式化
+    url_launcher: "5.4.1" # 加载url
+    image_picker: "0.6.3+1" # 相册选图
+    simple_image_crop: "0.1.3" # 裁切图片
+    flutter_swiper: "1.1.6" # 轮播图
+    flare_flutter: "2.0.1" # flr动画库
+    package_info: "0.4.0+13" # 获取包信息
+    qr_flutter: "3.2.0" # 二维码生成
+    image_gallery_saver: "1.2.2" # 保存图片(标记为相册图片)
+    permission_handler: "4.0.0" # 系统权限
+    sprintf: "4.0.2" # Dart implementation of sprintf.
+    logger: "0.7.0+2" # log
+    decimal: "0.3.5" # 处理number
+    flutter_webview_plugin: "0.3.10" # webview组件
+    flutter_staggered_grid_view: "0.3.0" # 瀑布流
+    flutter_statusbarcolor: "0.2.3" # 状态栏颜色
+    keyboard_visibility: "0.5.6"
+    flutter_ffmpeg: "0.2.8"
+    crypto: "2.1.3"
+    flutter_spinkit: "4.1.1" #loading
+    edge_alert: "0.0.1"
+    home_indicator: "1.1.5"
+    multi_image_picker: "4.6.1"
+    extended_image: ^0.7.1 #图片放大
+    retrofit: any
+    lpinyin: ^1.0.9
+    shared_preferences: ^0.5.6  #数据缓存
+    worker_manager: ^2.3.4
+
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+    flutter_launcher_icons: "0.7.4" # 生成app icon工具，运行命令 flutter pub run flutter_launcher_icons:main
+    flutter_umplus:
+        path: ./flutter_umplus_master
+    build_runner: ^1.7.2
+    json_serializable: ^3.1.0
+    retrofit_generator: any
+
+# 配置icon
+flutter_icons:
+    android: "launcher_icon"
+    ios: true
+    image_path: "icon/icon.png"
+
+flutter:
+    uses-material-design: true
+    assets:
+        - assets/main/
+        - assets/notice/
+        - assets/boot/
+        - assets/boot_pw/
+        - assets/player/
+        - assets/player/page/
+        - assets/player/info_buttons/
+        - assets/zt/
+        - assets/mine/
+        - assets/common/
+        - assets/vip/
+        - assets/home/
+        - assets/main_pao/
+        - assets/

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.6036364,15.3257949 L16.2975773,15.3257949 C16.8401544,15.3257949 17.28,15.7656405 17.28,16.3082176 C17.28,16.8507947 16.8401544,17.2906404 16.2975773,17.2906404 L9.62242275,17.2906404 C9.07957497,17.2906404 8.64,16.8510654 8.64,16.3088222 L8.64,9.62713838 C8.64,9.08489517 9.07957497,8.6453202 9.62181818,8.6453202 C10.1640614,8.6453202 10.6036364,9.08489517 10.6036364,9.62713838 L10.6036364,15.3257949 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心备份" transform="translate(-320.000000, -259.000000)">
+            <g id="编组-3" transform="translate(15.119574, 236.000000)">
+                <g id="编组-20复制-2" transform="translate(242.680000, 15.371921)">
+                    <g id="图标/原型/进入复制-3" transform="translate(50.240000, 0.960591)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#333333" opacity="0.800000012" transform="translate(12.960000, 12.967980) scale(-1, 1) rotate(-315.000000) translate(-12.960000, -12.967980) " xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

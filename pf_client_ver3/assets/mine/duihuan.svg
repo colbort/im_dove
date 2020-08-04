@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>兑换码备份</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.我的-普通用户备份" transform="translate(-162.000000, -346.000000)">
+            <g id="兑换码备份" transform="translate(162.000000, 346.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#FFFFFF" opacity="0.00999999978" xlink:href="#path-1"></use>
+                <g id="编组" mask="url(#mask-2)">
+                    <g transform="translate(5.000000, 7.000000)">
+                        <path d="M6,3 L16.3761339,3 C17.4807128,2.99998297 18.3761509,3.8954211 18.3761509,5 C18.3761509,5.31158789 18.3033495,5.61886602 18.1635517,5.89733252 C17.7362043,6.74857594 17.5199794,7.4494651 17.5148771,8 C17.5148771,8.85560346 18.153902,10.7834349 19.8008131,12.1921023 C19.811079,12.4094952 19.840348,12.9771135 19.88862,13.894957 C19.9466348,14.9980033 19.0994673,15.9392274 17.9964208,15.9972397 C17.9614375,15.9990796 17.9264119,16 17.8913803,16 L6,16 C4.8954305,16 4,15.1045695 4,14 L4,5 C4,3.8954305 4.8954305,3 6,3 Z" id="矩形" stroke="none" fill="#F8C01C" fill-rule="evenodd"></path>
+                        <path d="M0,2 L0,14 C1.3527075e-16,15.1045695 0.8954305,16 2,16 L18,16 C19.1045695,16 20,15.1045695 20,14 L20,12.0806671 L20,12.0806671 C18.3432514,11.2342627 17.5148771,9.87404037 17.5148771,8 C17.5148771,6.12595963 18.3432514,4.60027566 20,3.42294809 L20,2 C20,0.8954305 19.1045695,1.75920346e-15 18,0 L2,0 C0.8954305,2.02906125e-16 -1.3527075e-16,0.8954305 0,2 Z" id="路径-12" stroke="#603C24" stroke-width="1" fill="none" stroke-linejoin="round"></path>
+                        <rect id="矩形" stroke="none" fill="#603C24" fill-rule="evenodd" x="4" y="5" width="1" height="8" rx="0.5"></rect>
+                        <rect id="矩形备份" stroke="none" fill="#603C24" fill-rule="evenodd" x="4" y="3" width="1" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

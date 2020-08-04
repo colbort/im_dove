@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="31px" viewBox="0 0 34 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>客服</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-295.000000, -334.000000)">
+            <g id="编组-18" transform="translate(16.000000, 325.000000)">
+                <g id="编组-16">
+                    <g id="编组-27" transform="translate(279.000000, 8.000000)">
+                        <g id="客服" transform="translate(0.000000, 2.000000)">
+                            <circle id="椭圆形" fill="#FF848C" cx="18.1184211" cy="15.4342105" r="12.3026316"></circle>
+                            <path d="M22.2798179,27.6264895 C25.2151984,26.4611509 27.6737183,24.3529188 29.2815718,21.6755993 M31.3157895,14.3157895 C31.3157895,10.6233426 29.917848,7.25740244 27.6223469,4.71835097 M22.3991438,1.05308743 C20.7329944,0.37412136 18.9101876,0 17,0 C13.3251452,0 9.9736934,1.38465266 7.43890853,3.660694 M3.61823982,9.21862705 C3.01472884,10.8021341 2.68421053,12.5203634 2.68421053,14.3157895" id="形状" stroke="#333333" stroke-width="1.43157895" stroke-linecap="round"></path>
+                            <circle id="椭圆形" fill="#333333" cx="5.36842105" cy="6.26315789" r="1"></circle>
+                            <circle id="椭圆形" fill="#333333" cx="21.4736842" cy="27.7368421" r="1.78947368"></circle>
+                            <rect id="矩形" stroke="#333333" stroke-width="1.43157895" x="0.715789474" y="15.0315789" width="3.93684211" height="8.41052632" rx="1.78947368"></rect>
+                            <rect id="矩形备份-2" stroke="#333333" stroke-width="1.43157895" x="29.3473684" y="15.0315789" width="3.93684211" height="8.41052632" rx="1.78947368"></rect>
+                            <path d="M12.5263158,17 C15.5131028,19.9824561 18.495559,19.9824561 21.4736842,17" id="路径-29" stroke="#333333" stroke-width="1.25263158" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>图标/原型/加</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.首页-修改版复制-4备份-17" transform="translate(-124.000000, -488.000000)">
+            <g id="图标/原型/加" transform="translate(124.000000, 488.000000)">
+                <rect id="矩形" fill="#FFD93C" x="0" y="0" width="30" height="30" rx="3.6"></rect>
+                <g id="编组" stroke-width="1" transform="translate(15.424264, 15.000000) rotate(-45.000000) translate(-15.424264, -15.000000) translate(6.424264, 6.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" transform="translate(8.700000, 8.700000) scale(-1, 1) rotate(-135.000000) translate(-8.700000, -8.700000) " x="7.2" y="-1.8" width="3" height="21" rx="1.5"></rect>
+                    <path d="M8.7,-1.8 C9.52842712,-1.8 10.2,-1.12842712 10.2,-0.3 L10.2,17.7 C10.2,18.5284271 9.52842712,19.2 8.7,19.2 C7.87157288,19.2 7.2,18.5284271 7.2,17.7 L7.2,-0.3 C7.2,-1.12842712 7.87157288,-1.8 8.7,-1.8 Z" id="Rectangle-Copy" transform="translate(8.700000, 8.700000) scale(-1, 1) rotate(-405.000000) translate(-8.700000, -8.700000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
